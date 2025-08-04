@@ -1,0 +1,28 @@
+body {
+    font-family:Georgia;
+    background-color: peachpuff;
+    text-align: center;
+    padding: 20px;
+}
+
+.quadro {
+    display: inline-block;
+    border: 3px solid tomato;
+    padding: 10px;
+    background-color: lightcoral;
+    max-width: 400px;
+    margin: auto;
+}
+
+.quadro img {
+    width: 100%;
+    height: auto;
+    border: 2px solid palevioletred;
+}
+
+.descricao {
+    margin-top: 10px;
+    font-size: 15px;
+    color: royalblue;
+    text-align: justify;
+}
